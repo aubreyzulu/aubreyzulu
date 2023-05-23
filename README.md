@@ -1,4 +1,4 @@
-### Hello, I'm [Your Name]! 👋
+### Hello, I'm Aubrey Zulu! 👋
 A Passionate Python and JavaScript Developer
 Welcome to my GitHub profile! I'm a dedicated software developer with a strong passion for Python and JavaScript. I love creating elegant solutions to complex problems and exploring the endless possibilities of these two versatile programming languages.
 
