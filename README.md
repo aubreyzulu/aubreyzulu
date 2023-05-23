@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a dedicated software developer with a strong passion for Python and JavaScript. I love creating elegant solutions to complex problems and exploring the endless possibilities of these two versatile programming languages.
 
 ## 💻 Tech Stack
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Django, Flask, React, Node.js
-- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Languages**: Python, JavaScript,Typescript, HTML, CSS
+- **Frameworks**: Django, Flask, React, Node.js, Nextjs
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
 - **Tools & Technologies**: Git, Docker, AWS, Heroku, RESTful APIs
 ## 🔭 What I Do
 - Develop robust and scalable web applications using Python and JavaScript.
@@ -29,8 +29,9 @@ I believe in the continuous learning process, and I am always striving to enhanc
 ## 📫 Let's Connect
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can find me on:
 
-- LinkedIn: [Aubrey Zulu] (https://www.linkedin.com/in/aubrey-zulu-854068167/)
-- Email: [Email me] <aubreydarious@gmail.com>
+- LinkedIn: [Aubrey Zulu](https://www.linkedin.com/in/aubrey-zulu-854068167)
+- Email: <aubreydarious@gmail.com>
+
 I'm excited to connect with fellow developers and work on exciting projects together!
 
 Happy coding! 🚀
