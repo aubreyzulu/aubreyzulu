@@ -29,9 +29,8 @@ I believe in the continuous learning process, and I am always striving to enhanc
 ## 📫 Let's Connect
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can find me on:
 
-GitHub: YourGitHubUsername
-LinkedIn: Your LinkedIn Profile
-Email: your.email@example.com
+- LinkedIn: [Aubrey Zulu] (https://www.linkedin.com/in/aubrey-zulu-854068167/)
+- Email: [Email me] <aubreydarious@gmail.com>
 I'm excited to connect with fellow developers and work on exciting projects together!
 
 Happy coding! 🚀
