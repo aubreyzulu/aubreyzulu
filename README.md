@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a strong p
 - **Frameworks**: Django, Flask, React, Node.js, Nextjs
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis
 - **Tools & Technologies**: Git, Docker, AWS, Heroku, RESTful APIs
+- **Machine Leaning & Deep Leaning** Pandas, Numpy
 
 ## 🔭 What I Do
 - Develop robust and scalable web applications using Python and JavaScript.
