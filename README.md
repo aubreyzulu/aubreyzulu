@@ -1,13 +1,13 @@
 # Hello, I'm Aubrey Zulu! 👋
 ## A Passionate Python and JavaScript Developer
-Welcome to my GitHub profile! I'm a dedicated software developer with a strong passion for Python and JavaScript. I love creating elegant solutions to complex problems and exploring the endless possibilities of these two versatile programming languages.
+Welcome to my GitHub profile! I'm a dedicated Software Engineer with a strong passion for Python and JavaScript. I love creating elegant solutions to complex problems and exploring the endless possibilities of these two versatile programming languages.
 
 ## 💻 Tech Stack
-- **Languages**: Python, JavaScript,Typescript, HTML, CSS
+- **Languages**: Python, JavaScript, Typescript, HTML, CSS
 - **Frameworks**: Django, Flask, React, Node.js, Nextjs
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis
 - **Tools & Technologies**: Git, Docker, AWS, Heroku, RESTful APIs
-- **Machine Leaning & Deep Leaning**: Pandas, Numpy
+- **Machine Learning & Deep Learning**: Pandas, Numpy
 
 ## 🔭 What I Do
 - Develop robust and scalable web applications using Python and JavaScript.
