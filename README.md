@@ -35,7 +35,7 @@
 - 🌍 Based in Lusaka, collaborating globally (remote + hybrid)  
 - 🧭 **Currently exploring:** Machine & Deep Learning (TensorFlow / PyTorch)  
 - 🛠️ Mentor, code-reviewer, clean-architecture fan  
-- 🧮 Creator of **Koloso** — mental-math game on Android + iOS  
+
 
 ---
 
@@ -70,7 +70,7 @@
 - [ ] Kaggle “Titanic” starter 🏅  
 - [ ] Build & deploy first CNN to classify Zambian kwacha notes  
 
-*Follow along in my [`ml-playground`](https://github.com/aubreyzulu/ml-playground) repo.*
+
 
 ---
 
@@ -101,7 +101,7 @@
 - 🌐 **Portfolio:** <https://aubreyzulu.com>  
 - 💼 **LinkedIn:** <https://linkedin.com/in/aubreyzulu>  
 - 📧 **Email:** aubreydarious@gmail.com  
-- ☕ **Support:** <https://www.buymeacoffee.com/aubreyzulu>
+- ☕ **Support:** <https://buymeacoffee.com/aubreydariq>
 
 ---
 
