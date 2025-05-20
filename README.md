@@ -101,7 +101,7 @@
 - 🌐 **Portfolio:** <https://aubreyzulu.com>  
 - 💼 **LinkedIn:** <https://linkedin.com/in/aubreyzulu>  
 - 📧 **Email:** aubreydarious@gmail.com  
-- ☕ **Support:** <https://buymeacoffee.com/aubreydariq>
+- ☕ **Support:** <buymeacoffee.com/aubreydariq>
 
 ---
 
