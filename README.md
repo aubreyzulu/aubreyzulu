@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aubreyzulu/aubreyzulu/main/wave.gif" height="30" alt="👋" /> I’m <a href="https://aubreyzulu.com" target="_blank">Aubrey Zulu</a></h1>
-<h3 align="center">Technical Lead & product builder — now blending code with Machine & Deep Learning</h3>
+<h3 align="center">Technical Lead & Product Builder — now blending code with Machine & Deep Learning</h3>
 
 <p align="center">
   <a href="https://github.com/aubreyzulu?tab=followers"><img src="https://img.shields.io/github/followers/aubreyzulu?label=Followers&style=social" alt="GitHub followers"/></a>
